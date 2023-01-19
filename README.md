@@ -4,4 +4,4 @@ Isolation was a critical issue for remote workers during the Pandemic. The Water
 # Tech Stack
 The project orginally had a node.js and express.js API, PostgreSQL database and was hosted on AWS EC2. The frontend was built with JavaScript and BootStrap. The project is no longer live. 
 
-Completed during Nov. 18-20th 2022. 
+<sub>Completed during Nov. 18-20th 2022.</sub> 
